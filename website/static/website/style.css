@@ -1,0 +1,23 @@
+.headings{
+    display: flex;
+background-color: black;
+color: white ;
+gap:5px;
+}
+.logo{
+    padding-left: 10px;
+}
+.list-items{
+    list-style-type:none;
+    display:flex; 
+    gap:10px;
+    justify-items: center;
+    margin-left: 300px;
+}
+
+.list-items li{
+margin-top: 15px;
+justify-content: flex-end;
+font-size: 1.5rem;
+padding-left: 15px;
+}
